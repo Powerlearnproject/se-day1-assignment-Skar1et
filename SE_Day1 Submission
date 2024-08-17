@@ -5,12 +5,12 @@ Software Engineering Day1 Assignment
 Explain what software engineering is and discuss its importance in the technology industry:
 Software engineering is the systematic application of engineering principles, methods and tools to ensure high-quality maintenance
 of a software's product design, development, testing, deployment and maintenance. 
-Software engineering is important because it factors in all aspects of our life from the creation of software applications and systems
-that powers various aspects of modern life like entertainment, commerce and healthcare to meet users need.
+Software engineering is important because it factors in all aspects of our lives from the creation of software applications and systems
+that powers various aspects of modern life like entertainment, commerce and healthcare to meet users' needs.
 
 Identify and describe at least three key milestones in the evolution of software engineering:
 1) The invention of programming languages
-2) The establishment ofo software engineering as a disciplne in 1960
+2) The establishment of software engineering as a discipline in 1960
 3) The advent of structured programming in 1970 
 
 List and briefly explain the phases of the Software Development Life Cycle:
@@ -48,13 +48,13 @@ testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
 work among team members (e.g., Git, Subversion).
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges:
-CHALENGES
+CHALLENGES
 1) Changing requirements
 2) Tight deadlines
 3) Technical debts
 STRATEGIES TO OVERCOME THEM
 1) Effective communication
-2) priotization of tasks
+2) prioritization of tasks
 3) Regular reassessment of goals and timelines
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance:
