@@ -1,0 +1,94 @@
+Software Engineering Day1 Assignment
+
+#Part 1: Introduction to Software Engineering
+
+Explain what software engineering is and discuss its importance in the technology industry:
+Software engineering is the systematic application of engineering principles, methods and tools to ensure high-quality maintenance
+of a software's product design, development, testing, deployment and maintenance. 
+Software engineering is important because it factors in all aspects of our lives from the creation of software applications and systems
+that powers various aspects of modern life like entertainment, commerce and healthcare to meet users' needs.
+
+Identify and describe at least three key milestones in the evolution of software engineering:
+1) The invention of programming languages
+2) The establishment of software engineering as a discipline in 1960
+3) The advent of structured programming in 1970 
+
+List and briefly explain the phases of the Software Development Life Cycle:
+1) Requirements: This stage gathers and documents user needs and system requirements.
+2) Design: This creates high-level and detailed designs of the software architecture and user interface.
+3) Testing: This is for conducting various tests to ensure the software meets quality standards and functional requirements.
+4) Deployment: This releases the software to users or customers.
+5) Maintenance: This stage is for providing ongoing support, updates, and enhancements to the software after deployment.
+
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+COMPARISONS
+1) Both methodologies aim to deliver a high-quality software product.
+2) Both involve planning, development, testing, and deployment phases.
+DIFFERENCES
+1) Agile: High customer involvement throughout the development process.
+2) Waterfall: Limited customer involvement during the initial stages.
+3) Agile: Highly flexible, allows for changes in scope and requirements.
+4) Waterfall: Less flexible, changes can be disruptive and costly.
+
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team:
+SOFTWARE DEVELOPER
+1) Design, develop, test, and maintain software systems and applications
+2) Analyze requirements, design solutions, and write code
+QUALITY ASSURANCE OFFICER
+1) Work with developers to resolve issues and improve code quality
+2) Participate in code reviews and provide feedback
+PROJECT MANAGER
+1) Define project goals, timelines, and budgets
+2) Assign tasks to team members and track progress
+
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each:
+1) The Integrated Development Environments (IDEs) is used to provide comprehensive tools for writing, debugging, and 
+testing code (e.g., Visual Studio, Eclipse, IntelliJ IDEA).
+2) The Version Control Systems (VCS) is used for tracking changes to source code and coordinating 
+work among team members (e.g., Git, Subversion).
+
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges:
+CHALLENGES
+1) Changing requirements
+2) Tight deadlines
+3) Technical debts
+STRATEGIES TO OVERCOME THEM
+1) Effective communication
+2) prioritization of tasks
+3) Regular reassessment of goals and timelines
+
+Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance:
+Unit Testing: Tests individual units (functions, classes, modules) in isolation and 
+verifies that each unit behaves as expected, without dependencies on other units.
+Importance: Ensures the correctness of fundamental building blocks of the system.
+
+Integration Testing: Tests how different units work together after being combined and 
+verifies interfaces between units and identifies any integration issues.
+Importance: Demonstrates that the system works as a cohesive whole.
+
+System Testing: Tests the entire system as a single entity, including all components and their interactions and 
+verifies that the system meets functional and performance requirements in real-world scenarios.
+Importance: Ensures the overall quality of the system before it is released to users.
+
+Acceptance Testing: Performed by end-users or stakeholders to verify that the system meets their business requirements and 
+evaluates whether the system is fit for purpose and meets their expectations.
+Importance: Provides confidence to users that the system will perform as intended in a production environment.
+
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+Define prompt engineering and discuss its importance in interacting with AI models:
+Prompt engineering is the art and science of crafting prompts that effectively guide AI models to produce desired outcomes. 
+A prompt is a text-based instruction or query that is provided to an AI model to initiate its response.
+IMPORTANCE
+Well-crafted prompts provide clear instructions and eliminate ambiguity, ensuring that the AI model understands what is expected of it.
+By tailoring the prompt, users can influence the content, style, and tone of the model's response, ensuring it aligns with their requirements.
+
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective:
+Vague Prompt:
+Write a persuasive essay about climate change.
+Improved Prompt:
+Write a persuasive essay advocating for increased funding for renewable energy research, providing specific examples of how
+this funding will mitigate the negative effects of climate change.
+Explanation:
+The improved prompt is clear, concise and specific.
