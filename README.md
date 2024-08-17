@@ -36,4 +36,4 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-ASSIGNMENT URL: https://github.com/Powerlearnproject/se-day1-assignment-Skar1et/blob/6e0dbd61ced4afe3dce3c7cd2ba8b391f0e00978/Assignment%20Submission   
+ASSIGNMENT URL: https://github.com/Powerlearnproject/se-day1-assignment-Skar1et/blob/a2fef8d48867b2516f18963bd3b3ac8b92a5d454/SE_Day1%20Submission 
